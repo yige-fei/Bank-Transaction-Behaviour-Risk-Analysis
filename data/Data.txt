@@ -1,0 +1,7 @@
+## Dataset
+
+The dataset used in this project can be downloaded from Kaggle:
+
+https://www.kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection
+
+Place the dataset inside the `data/` folder before running the notebook.
