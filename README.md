@@ -55,7 +55,7 @@ CSV Export
 ↓
 Looker Studio Dashboard
 ↓
-GitHub / Resume Packaging
+GitHub 
 ```
 
 ## SQL Process
